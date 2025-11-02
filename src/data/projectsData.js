@@ -3,7 +3,7 @@
 // import six from '../assets/svg/projects/six.svg'
 // import face from '../assets/png/face.jpg'
 // import land from '../assets/png/land.jpg'
-import handloom from '../assets/png/handloom.jpg'
+//import handloom from '../assets/png/handloom.jpg'
 import Votingapp from '../assets/png/Votingapp.png'
 import campushub from '../assets/png/campushub.png'
 
@@ -13,8 +13,8 @@ export const projectsData = [
         projectName: 'Voting App',
         projectDesc: 'A secure web-based platform for conducting college elections, allowing students to log in, view candidates, and cast their votes online.',
         tags: ['React', 'JavaScript', 'CSS', 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Secure-Access',
-        demo: 'https://github.com/srinivaspavan73/Secure-Access',
+        code: 'https://github.com/anushaba1082004/VotingApp',
+        demo: 'https://github.com/anushaba1082004/VotingApp',
         image: Votingapp
     },
     {
@@ -26,15 +26,15 @@ export const projectsData = [
         demo: 'https://github.com/srinivaspavan73/Landlink',
         image: campushub
     },
-    {
-        id: 3,
-        projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
-        projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
-        tags: ['React', 'CSS' , 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
-        demo: 'https://weavers-loom.netlify.app/',
-        image: handloom
-    }
+    //{
+    //    id: 3,
+    //    projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
+    //      projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
+    //tags: ['React', 'CSS' , 'HTML'],
+       // code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
+        //demo: 'https://weavers-loom.netlify.app/',
+       // image: handloom
+    //}
 ]
 
 
