@@ -21,13 +21,13 @@ export const experienceData = [
     //     startYear: 'Nov 2023',
     //     endYear: 'Dec 2023'
     // },
-    {
+    //{
     //    id: 3,
     //    company: 'YHills Edutech Private Limited',
     //    jobtitle: 'Artificial Intelligence Intern',
     //    startYear: 'Oct 2022',
     //    endYear: 'Dec 2022'
-    },
+   // },
     
     
 ]
