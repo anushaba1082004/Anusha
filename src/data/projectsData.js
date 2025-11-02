@@ -22,8 +22,8 @@ export const projectsData = [
         projectName: 'CampusHub',
         projectDesc: 'A web application that enables users to log in, browse and register for events, and collaborate on campus projects.',
         tags: ['React', 'Node', 'Express', 'SQL', 'JavaScript'],
-        code: 'https://github.com/srinivaspavan73/Landlink',
-        demo: 'https://github.com/srinivaspavan73/Landlink',
+    //    code: 'https://github.com/srinivaspavan73/Landlink',
+    //    demo: 'https://github.com/srinivaspavan73/Landlink',
         image: campushub
     },
     //{
